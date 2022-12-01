@@ -1,0 +1,35 @@
+h1 {
+    color: black
+}
+    
+body {
+    background-color: green;
+    width: 500px;
+    height: 500px;
+}
+
+.dealerCard, .playerCard {
+    width: 30%;
+    height: 100px;
+    margin: 20px;
+    background-color: white;
+    color: black;
+    font-size: 2em;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.row {
+    display: flex;
+    justify-content: center;   
+}
+
+.row h4 {
+    color: red;
+    margin-top: 10px;
+}
+
+.row p {
+    color: red;
+    margin-top: -25px;
+}
